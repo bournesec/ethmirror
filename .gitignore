@@ -1,0 +1,6 @@
+/ethmirror
+/bin/
+*.test
+*.pcap
+__pycache__/
+.DS_Store
